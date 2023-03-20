@@ -10,7 +10,7 @@
     "lint": "lerna run lint --ignore demo --ignore docs",
     "release": "lerna publish --ignore demo --ignore docs",
     "release:patch": "lerna version patch --no-push",
-    "publish": "lerna publish from-package",
+    "publish": "lerna publish from-package --no-private",
     "changelog": "node ./scripts/update-version.mjs && conventional-changelog -p angular -i CHANGELOG.md -s -r 2 && (git add CHANGELOG.md && git add package.json && git commit -m \"chore: changelog\" && git push || exit 0)"
   },
   "devDependencies": {
