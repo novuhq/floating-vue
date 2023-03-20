@@ -1,0 +1,6 @@
+54 error Error: Command failed with exit code 128: git tag v2.0.3 -m v2.0.3
+54 error fatal: tag 'v2.0.3' already exists
+54 error     at makeError (/Users/dmitrigrossman/projects/floating-vue/node_modules/@lerna/child-process/node_modules/execa/lib/error.js:60:11)
+54 error     at handlePromise (/Users/dmitrigrossman/projects/floating-vue/node_modules/@lerna/child-process/node_modules/execa/index.js:118:26)
+54 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+54 error     at async Promise.all (index 0)
