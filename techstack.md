@@ -3,17 +3,17 @@
 ## Tech Stack
 novuhq/floating-vue is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Netlify](https://www.netlify.com/) – Static Web Hosting
-- [ESLint](http://eslint.org/) – Code Review
 - [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [ESLint](http://eslint.org/) – Code Review
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
 - [highlight.js](https://highlightjs.org/) – Text Editor
+- [Netlify](https://www.netlify.com/) – Static Web Hosting
+- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
 - [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
@@ -24,17 +24,17 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 novuhq/floating-vue is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/8863/paeckCWC.png' alt='VuePress'/> [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [novuhq/floating-vue](https://github.com/novuhq/floating-vue)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|01/05/24 <br/>Report generated|
+|43<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
